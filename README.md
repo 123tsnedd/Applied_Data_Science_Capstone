@@ -1,7 +1,7 @@
 # Applied_Data_Science_Capstone
-Capstone Project for  IBM Data Science Professional Certificate
+Capstone Project for  IBM's Data Science Professional Certificate offered and conducted through Coursera.org. https://www.coursera.org/programs/career-academy-pilot-qzxug/professional-certificates/ibm-data-science
 
-This capstone project will predict if the Falcon 9 first-stage rocket will land successfully using a variety of Data Science libraries and techniques.
+This capstone project will  predict if the Falcon 9 first-stage rocket will land successfully using a variety of Data Science libraries and techniques.
 
 Task 1, Web-Scraping:
   A. Perform web scraping to collect SpaceX Falcon 9 Heavy launches from Wikipedia.
