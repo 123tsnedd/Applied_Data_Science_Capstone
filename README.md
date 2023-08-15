@@ -31,7 +31,13 @@ Task 5, Folium Launch Site Analysis:
   B. Integrated SpaceX DataFrame into Folium map to provide details of locations. 
   C. Maped, marked, and calculated distances from the launch pad to the closest Points of Interest. 
 
-Task 6, Machine Learning Prediction:
+Task 6, Create a Plotly Dash dashboard
+  A. Utilized skeleton key from assignment to add drop-down bar displaying all the sites as options.
+  B. Created a Pie chart depicting all sites or individual sites based on bar selection.
+  C. Created a slider to allow adjustments on the type of data required.
+  D. Dispayed a ScatterPlot as another visual source to understand the data better.
+  
+Task 6, Machine Learning Prediction Analysis (classification):
   A. Utilize Pandas, Numpy, MatPlotLib, Seaborn, and as well as various Sklearn learn libraries. 
   B. Utilize preprocessing, StandardScaler(), and transform() to standardize data.
   C. Created Test Train training sets with train_test_split() from the Sklearn library.
