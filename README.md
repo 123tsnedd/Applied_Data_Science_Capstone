@@ -1,8 +1,7 @@
 # Applied_Data_Science_Capstone
 Capstone Project for  IBM's Data Science Professional Certificate offered and conducted through Coursera.org. https://www.coursera.org/programs/career-academy-pilot-qzxug/professional-certificates/ibm-data-science
 
-I conducted an in-depth analysis of the landings of the Falcon 9 rocket, which SpaceX manufactures. My analysis was executed with confidence and precision, utilizing a rigorous and exploratory approach. My analysis's findings are comprehensive and insightful, shedding light on the intricate details of the rocket's landings. Overall, this analysis is a testament to my expertise and commitment to excellence in the field of rocketry. 
-
+I conducted an in-depth analysis of the landings of the Falcon 9 rocket, which SpaceX manufactures. My analysis was executed with confidence and precision, utilizing a rigorous and exploratory approach. My analysis's findings are comprehensive and insightful, shedding light on the intricate details of the rocket's landings.
 Task 1, Web-Scraping:
   A. Perform web scraping to collect SpaceX Falcon 9 Heavy launches from Wikipedia.
   B. Utilized BeautifuSoup Library to extract HTML tables from Wikipedia.
