@@ -2,10 +2,11 @@
 Capstone Project for  IBM's Data Science Professional Certificate offered and conducted through Coursera.org. https://www.coursera.org/programs/career-academy-pilot-qzxug/professional-certificates/ibm-data-science
 
 I conducted an in-depth analysis of the landings of the Falcon 9 rocket, which SpaceX manufactures. My analysis was executed with confidence and precision, utilizing a rigorous and exploratory approach. My analysis's findings are comprehensive and insightful, shedding light on the intricate details of the rocket's landings.
+
 Task 1, Web-Scraping:
-  A. Perform web scraping to collect SpaceX Falcon 9 Heavy launches from Wikipedia.
-  B. Utilized BeautifuSoup Library to extract HTML tables from Wikipedia.
-  C. Parse and Convert the table to Pandas Data Frame.
+  1. Perform web scraping to collect SpaceX Falcon 9 Heavy launches from Wikipedia.
+  1. Utilized BeautifuSoup Library to extract HTML tables from Wikipedia.
+  1. Parse and Convert the table to Pandas Data Frame.
   
 Task 2, Data Gathering:
   A. Gather SpaceX data via SpaceX API utilizing requests.
