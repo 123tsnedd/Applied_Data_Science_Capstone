@@ -9,37 +9,37 @@ Task 1, Web-Scraping:
   1. Parse and Convert the table to Pandas Data Frame.
   
 Task 2, Data Gathering:
-  A. Gather SpaceX data via SpaceX API utilizing requests.
-  B. Clean data utilizing pandas, numpy, and datetime libraries. 
-  C. Filter and Wrangle Data.
-  D. Resolve missing values.
+  1. Gather SpaceX data via SpaceX API utilizing requests.
+  1. Clean data utilizing pandas, numpy, and Datetime libraries. 
+  1. Filter and Wrangle Data.
+  1. Resolve missing values.
   
 Task 3, SQL Inquiries:
-  A. Utilize CSV and Sqlite3 to connect to load and establish a connection with the SQL database.
-  B. Load the dataset into the corresponding Db2 database.
-  C. Perform SQL queries to solve the supplied questions. 
-  D. Ran SQL queries with sub-queries accessing two databases. 
+  1. Utilize CSV and Sqlite3 to connect to load and establish a connection with the SQL database.
+  1. Load the dataset into the corresponding Db2 database.
+  1. Perform SQL queries to solve the supplied questions. 
+  1. Ran SQL queries with sub-queries accessing two databases. 
 
 Task 4, Perform Exploratory Data Analysis to predict landing success:
-  A. Utilize Numpy and Pandas to Calculate the number of launches on each site.
-  B. Calculate occurrences of outcomes per orbit type.
-  C. Utilized the Outcome column from the Data Frame to create outcome labels.
-  D. Determined rate of success. 
+  1. Utilize Numpy and Pandas to Calculate the number of launches on each site.
+  1. Calculate occurrences of outcomes per orbit type.
+  1. Utilized the Outcome column from the Data Frame to create outcome labels.
+  1. Determined rate of success. 
 
 Task 5, Folium Launch Site Analysis:
-  A. Utilize the Folium library to create an interactive map of SpaceX launch sites.
-  B. Integrated SpaceX DataFrame into Folium map to provide details of locations. 
-  C. Maped, marked, and calculated distances from the launch pad to the closest Points of Interest. 
+  1. Utilize the Folium library to create an interactive map of SpaceX launch sites.
+  1. Integrated SpaceX DataFrame into Folium map to provide details of locations. 
+  1. Maped, marked, and calculated distances from the launch pad to the closest Points of Interest. 
 
 Task 6, Create a Plotly Dash dashboard:
-  A. Utilized skeleton key from assignment to add drop-down bar displaying all the sites as options.
-  B. Created a Pie chart depicting all sites or individual sites based on bar selection.
-  C. Created a slider to allow adjustments on the type of data required.
-  D. Dispayed a ScatterPlot as another visual source to understand the data better.
+  1. Utilized skeleton key from assignment to add drop-down bar displaying all the sites as options.
+  1. Created a Pie chart depicting all sites or individual sites based on bar selection.
+  1. Created a slider to allow adjustments on the type of data required.
+  1. Dispayed a ScatterPlot as another visual source to understand the data better.
   
 Task 7, Machine Learning Prediction Analysis (classification):
-  A. Utilize Pandas, Numpy, MatPlotLib, Seaborn, and as well as various Sklearn learn libraries. 
-  B. Utilize preprocessing, StandardScaler(), and transform() to standardize data.
-  C. Created Test Train training sets with train_test_split() from the Sklearn library.
-  D. Conduct GridSearchCV with parameters supplied in the assignment to perform \
+  1. Utilize Pandas, Numpy, MatPlotLib, Seaborn, and as well as various Sklearn learn libraries. 
+  1. Utilize preprocessing, StandardScaler(), and transform() to standardize data.
+  1. Created Test Train training sets with train_test_split() from the Sklearn library.
+  1. Conduct GridSearchCV with parameters supplied in the assignment to perform \
     Logistic Regression, Support Vector Machine (SVC), Decision Tree, and K-Nearest Neighbor.
