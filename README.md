@@ -1,7 +1,7 @@
 # Applied_Data_Science_Capstone
 Capstone Project for  IBM's Data Science Professional Certificate offered and conducted through Coursera.org. https://www.coursera.org/programs/career-academy-pilot-qzxug/professional-certificates/ibm-data-science
 
-This capstone project will  predict if the Falcon 9 first-stage rocket will land successfully using a variety of Data Science libraries and techniques.
+I conducted an in-depth analysis of the landings of the Falcon 9 rocket, which SpaceX manufactures. My analysis was executed with confidence and precision, utilizing a rigorous and exploratory approach. My analysis's findings are comprehensive and insightful, shedding light on the intricate details of the rocket's landings. Overall, this analysis is a testament to my expertise and commitment to excellence in the field of rocketry. 
 
 Task 1, Web-Scraping:
   A. Perform web scraping to collect SpaceX Falcon 9 Heavy launches from Wikipedia.
@@ -15,7 +15,7 @@ Task 2, Data Gathering:
   D. Resolve missing values.
   
 Task 3, SQL Inquiries:
-  A. Utilize CSV and Sqlite3 to connect to load and establish a connection with SQL database.
+  A. Utilize CSV and Sqlite3 to connect to load and establish a connection with the SQL database.
   B. Load the dataset into the corresponding Db2 database.
   C. Perform SQL queries to solve the supplied questions. 
   D. Ran SQL queries with sub-queries accessing two databases. 
@@ -31,13 +31,13 @@ Task 5, Folium Launch Site Analysis:
   B. Integrated SpaceX DataFrame into Folium map to provide details of locations. 
   C. Maped, marked, and calculated distances from the launch pad to the closest Points of Interest. 
 
-Task 6, Create a Plotly Dash dashboard
+Task 6, Create a Plotly Dash dashboard:
   A. Utilized skeleton key from assignment to add drop-down bar displaying all the sites as options.
   B. Created a Pie chart depicting all sites or individual sites based on bar selection.
   C. Created a slider to allow adjustments on the type of data required.
   D. Dispayed a ScatterPlot as another visual source to understand the data better.
   
-Task 6, Machine Learning Prediction Analysis (classification):
+Task 7, Machine Learning Prediction Analysis (classification):
   A. Utilize Pandas, Numpy, MatPlotLib, Seaborn, and as well as various Sklearn learn libraries. 
   B. Utilize preprocessing, StandardScaler(), and transform() to standardize data.
   C. Created Test Train training sets with train_test_split() from the Sklearn library.
